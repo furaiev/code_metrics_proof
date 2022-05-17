@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+part 'test_file.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -67,12 +69,4 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     );
   }
-}
-
-abstract class _TestEvent {
-  const _TestEvent();
-}
-
-class _Test extends _TestEvent {
-  const _Test();
 }
