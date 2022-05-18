@@ -1,6 +1,6 @@
-import 'non_part_of_test_class20.dart';
+import 'non_part_of_test_class.dart';
 
-part 'part_of_test_class20.dart';
+part 'part_of_test_class.dart';
 
 void main() {
   _PartOfTestClass();
