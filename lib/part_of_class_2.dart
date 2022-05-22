@@ -1,5 +1,5 @@
 part of 'main.dart';
 
-class _PartOfTestClass {
+class _PartOfClassWithNumberInFileName {
   String get testString => 'testString';
 }
